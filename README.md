@@ -72,7 +72,7 @@ Random partitioning produces noticeably shorter paths for anomalies. Hence, when
 
 ### Refrences
 
-Visit https://www.irjet.net/archives/V5/i11/IRJET-V5I11304.pdf
-Visit https://acadpubl.eu/jsi/2018-118-7-9/articles/7/31.pdf
-Visit https://arxiv.org/pdf/1811.02196.pdf
-Visit https://towardsdatascience.com/anomaly-detection-with-isolation-forest-visualization-23cd75c281e2
+- Visit https://www.irjet.net/archives/V5/i11/IRJET-V5I11304.pdf
+- Visit https://acadpubl.eu/jsi/2018-118-7-9/articles/7/31.pdf
+- Visit https://arxiv.org/pdf/1811.02196.pdf
+- Visit https://towardsdatascience.com/anomaly-detection-with-isolation-forest-visualization-23cd75c281e2
